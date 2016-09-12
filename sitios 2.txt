@@ -1,0 +1,4 @@
+Cruise	Station	Type	mon/day/yr	hh:mm	Longitude [degrees_East]	Latitude [degrees_north]	Bot. Depth [m]	depth					
+M74-3	Moccha 1	C	11/02/2007	13:12:00	12.38	44.84	10	0					
+M74-3	Moccha 3	C	11/02/2007	13:12:00	12.35	44.82	10	0					
+M74-3	Moccha 15	C	11/02/2007	13:12:00	14.71	42.17	10	0					
